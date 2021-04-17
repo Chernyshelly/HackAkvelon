@@ -8,6 +8,16 @@ lib-cov
 *.gz
 *.swp
 
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# vim
+*.txt~
+*.swp
+*.swo
+
 # Build results
 
 [Dd]ebug/
