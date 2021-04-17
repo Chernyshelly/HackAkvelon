@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Hacaton\obj\Debug\Hacaton.njsprojAssemblyReference.cache
+C:\Users\User\source\repos\Hacaton\obj\Debug\Hacaton.njsproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hacaton\bin\Microsoft.NodejsTools.WebRole.dll
