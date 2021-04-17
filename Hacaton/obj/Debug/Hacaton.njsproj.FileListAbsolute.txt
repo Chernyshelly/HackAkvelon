@@ -1,3 +1,6 @@
 C:\Users\User\source\repos\Hacaton\obj\Debug\Hacaton.njsprojAssemblyReference.cache
 C:\Users\User\source\repos\Hacaton\obj\Debug\Hacaton.njsproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Hacaton\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\maksa\Desktop\Новая папка (2)\HackAkvelon\Hacaton\obj\Debug\Hacaton.njsprojAssemblyReference.cache
+C:\Users\maksa\Desktop\Новая папка (2)\HackAkvelon\Hacaton\obj\Debug\Hacaton.njsproj.CoreCompileInputs.cache
+C:\Users\maksa\Desktop\Новая папка (2)\HackAkvelon\Hacaton\bin\Microsoft.NodejsTools.WebRole.dll
