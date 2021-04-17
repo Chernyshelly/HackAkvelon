@@ -8,6 +8,15 @@ lib-cov
 *.gz
 *.swp
 
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
 pids
 logs
 results
